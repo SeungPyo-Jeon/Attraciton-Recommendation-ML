@@ -15,4 +15,4 @@ Train Dataset is available from [Ai hub "국내 여행로그 데이터(수도권
 \**You may need to restart the demo page.  It takes about a minute.  Please wait.*
   
 ## Demo image for example
-![Image](https://github.com/user-attachments/assets/0610fd6e-b1b5-41f4-ab1b-c800b01299c1)
+<img src="https://github.com/user-attachments/assets/0610fd6e-b1b5-41f4-ab1b-c800b01299c1" width="200" height="380"></img>
