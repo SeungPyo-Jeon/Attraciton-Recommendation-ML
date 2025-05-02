@@ -1,0 +1,5 @@
+huggingface_hub==0.22.2
+scikit-learn==1.2.2
+sklearn-pandas==2.2.0
+pandas==2.0.3
+numpy==1.25.2
