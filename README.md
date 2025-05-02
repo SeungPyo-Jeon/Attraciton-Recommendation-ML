@@ -1,7 +1,8 @@
 # Attraciton-Recommend
 
 **[Demo page in Hugging face](https://huggingface.co/spaces/SSeungP/TripRecommendation)**
-***You may need to restart the demo page***  
+\* ***You may need to restart the demo page***  
+  
 여행장소 추천 머신러닝입니다.  
 머신러닝1 수업 중 과제로 진행한 프로젝트입니다.  
 학습데이터는 [Ai hub "국내 여행로그 데이터(수도권)(2023)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71776)을 이용하였습니다.  
