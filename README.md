@@ -1,7 +1,7 @@
 # Attraciton-Recommend
 
-**[Demo page in Hugging face](https://huggingface.co/spaces/SSeungP/TripRecommendation)**
-\* ***You may need to restart the demo page***  
+**[Demo page in Hugging face](https://huggingface.co/spaces/SSeungP/TripRecommendation)**  
+\**You may need to restart the demo page*
   
 여행장소 추천 머신러닝입니다.  
 머신러닝1 수업 중 과제로 진행한 프로젝트입니다.  
