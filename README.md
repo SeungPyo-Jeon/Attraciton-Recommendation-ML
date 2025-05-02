@@ -1,6 +1,6 @@
-# Attraciton-Recommend
+# Attraciton-Recommendation-ML
 
-**[Demo page in Hugging face](https://huggingface.co/spaces/SSeungP/TripRecommendation)**  
+**[Demo page in Hugging face](https://huggingface.co/spaces/SSeungP/Attraciton-Recommendation-ML)**  
 \**You may need to restart the demo page*
   
 여행장소 추천 머신러닝입니다.  
