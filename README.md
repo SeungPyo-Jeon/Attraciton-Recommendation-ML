@@ -2,12 +2,12 @@
 
 ## Korean
 여행장소 추천 머신러닝 모델입니다.  
-머신러닝1 수업 중 과제로 진행한 프로젝트입니다.  
+3학년 1학기 머신러닝1 수업 중 과제로 진행한 프로젝트입니다.  
 학습데이터는 [Ai hub "국내 여행로그 데이터(수도권)(2023)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71776)을 이용하였습니다.  
 
 ## English
 This project is trip attraction recommendation project using ML model.  
-it was conducted as part of the "MachineLearning1" lecture.  
+it was conducted as part of the "MachineLearning1" lecture for the first semester of the third year 
 Train Dataset is available from [Ai hub "국내 여행로그 데이터(수도권)(2023)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71776).
 
 ## Demo Page
