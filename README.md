@@ -1,4 +1,4 @@
-# Attraciton-Recommendation-ML
+# ML-AttracitonRecommendation
 
 ## Korean
 여행장소 추천 머신러닝 모델입니다.  
