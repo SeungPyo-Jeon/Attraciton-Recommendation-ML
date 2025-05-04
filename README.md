@@ -7,7 +7,7 @@
 
 ## English
 This project is trip attraction recommendation project using ML model.  
-it was conducted as part of the "MachineLearning1" lecture for the first semester of the third year 
+it was conducted as part of "MachineLearning1" for the first semester of the third year 
 Train Dataset is available from [Ai hub "국내 여행로그 데이터(수도권)(2023)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71776).
 
 ## Demo Page
